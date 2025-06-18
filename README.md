@@ -1,5 +1,5 @@
 # Generative-AI-project
-This is  Generative AI Project to demonstrate the capabilities of Gen AI and TensorFlow library. I chose to generate a new type of literature that is both engaging and thought-provoking.
+This is a Generative AI Project to demonstrate the capabilities of Gen AI and TensorFlow library. I chose to generate a new type of literature that is both engaging and thought-provoking.
 GPT-2
 Tools: TensorFlow + Keras for text generation, Recurrent Neural Networks (LSTM) by GPT-2, A recursive structure to build each chapter, and a sentiment or topic drift to control "meaning mutation"
 The code is reusable and can be customized to include more layers, adjusting seed, replacing corpus with different lines, adjusting coherence/creativity, etc
